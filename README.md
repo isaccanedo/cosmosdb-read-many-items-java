@@ -10,7 +10,7 @@ urlFragment: "azure-cosmos-java-getting-started"
 
 # Leia muitos itens com o SDK Java do Azure Cosmos DB
 
-Azure Cosmos DB is a globally distributed multi-model database. One of the supported APIs is the SQL API, which provides a JSON document model with SQL querying and JavaScript procedural logic. The sample demos the [readMany](https://docs.microsoft.com/en-us/java/api/com.azure.cosmos.implementation.itemoperations.readmany?view=azure-java-stable) method in the [Java SDK for Azure Cosmos DB](https://docs.microsoft.com/azure/cosmos-db/sql/sql-api-sdk-java-v4).
+O Azure Cosmos DB é um banco de dados multimodelo distribuído globalmente. Uma das APIs suportadas é a API SQL, que fornece um modelo de documento JSON com consulta SQL e lógica processual JavaScript. O exemplo demonstra o método [readMany](https://docs.microsoft.com/en-us/java/api/com.azure.cosmos.implementation.itemoperations.readmany?view=azure-java-stable) no [ SDK Java para Azure Cosmos DB](https://docs.microsoft.com/azure/cosmos-db/sql/sql-api-sdk-java-v4).
 
 ## Getting Started
 
