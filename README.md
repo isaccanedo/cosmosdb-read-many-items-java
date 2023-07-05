@@ -48,7 +48,7 @@ mvn exec:java@sync -DACCOUNT_HOST=YOUR_COSMOS_DB_HOSTNAME -DACCOUNT_KEY=YOUR_COS
 
 The code included in this sample is intended to demonstrate the difference in performance between running many point operations in parallel with a multi-threaded application vs sending micro batches of point reads as tuple lists using the readMany() method.  
 
-## More information
+## Mais Informações
 
 - [Azure Cosmos DB : Service introduction and SLA](https://docs.microsoft.com/azure/cosmos-db/sql-api-introduction)
 - [Azure Cosmos DB : SQL API](https://docs.microsoft.com/en-us/azure/cosmos-db/sql-query-getting-started)
