@@ -16,8 +16,8 @@ O Azure Cosmos DB é um banco de dados multimodelo distribuído globalmente. Uma
 
 ### Pré-requisitos
 
-* Before you can run this sample, you must have the following prerequisites:
-
+* Antes de poder executar esta amostra, você deve ter os seguintes pré-requisitos:
+* 
    * An active Azure account. If you don't have one, you can sign up for a [free account](https://azure.microsoft.com/free/). Alternatively, you can use the [Azure Cosmos DB Emulator](https://azure.microsoft.com/documentation/articles/documentdb-nosql-local-emulator) for this tutorial. As the emulator https certificate is self signed, you need to import its certificate to the java trusted certificate store as [explained here](https://docs.microsoft.com/azure/cosmos-db/local-emulator-export-ssl-certificates).
 
    * JDK 1.8+
