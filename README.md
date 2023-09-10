@@ -25,7 +25,7 @@ O Azure Cosmos DB é um banco de dados multimodelo distribuído globalmente. Uma
 
 ### Quickstart
 
-* First clone this repository using
+* Primeiro clone este repositório usando
 
 ```bash
 git clone https://github.com/Azure-Samples/cosmosdb-read-many-items-java.git
