@@ -38,7 +38,7 @@ cd cosmosdb-read-many-items-java
 mvn clean package
 ```
 
-* From a command prompt or shell, run the following command to run the application.
+* Em um prompt de comando ou shell, execute o seguinte comando para executar o aplicativo.
 
 ```bash
 mvn exec:java@sync -DACCOUNT_HOST=YOUR_COSMOS_DB_HOSTNAME -DACCOUNT_KEY=YOUR_COSMOS_DB_MASTER_KEY
