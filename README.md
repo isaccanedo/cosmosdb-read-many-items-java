@@ -31,7 +31,7 @@ O Azure Cosmos DB é um banco de dados multimodelo distribuído globalmente. Uma
 git clone https://github.com/Azure-Samples/cosmosdb-read-many-items-java.git
 ```
 
-* From a command prompt or shell, run the following command to compile and resolve dependencies.
+* Em um prompt de comando ou shell, execute o seguinte comando para compilar e resolver dependências.
 
 ```bash
 cd cosmosdb-read-many-items-java
