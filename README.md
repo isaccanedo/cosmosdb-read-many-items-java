@@ -44,9 +44,9 @@ mvn clean package
 mvn exec:java@sync -DACCOUNT_HOST=YOUR_COSMOS_DB_HOSTNAME -DACCOUNT_KEY=YOUR_COSMOS_DB_MASTER_KEY
 ```
 
-## About the code
+## Sobre o código
 
-The code included in this sample is intended to demonstrate the difference in performance between running many point operations in parallel with a multi-threaded application vs sending micro batches of point reads as tuple lists using the readMany() method.  
+O código incluído neste exemplo tem como objetivo demonstrar a diferença de desempenho entre a execução de muitas operações de pontos em paralelo com um aplicativo multithread e o envio de microlotes de leituras de pontos como listas de tuplas usando o método readMany(). 
 
 ## Mais Informações
 
