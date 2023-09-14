@@ -55,11 +55,11 @@ O código incluído neste exemplo tem como objetivo demonstrar a diferença de d
 - [Java SDK Github for SQL API of Azure Cosmos DB](https://github.com/Azure/azure-sdk-for-java/tree/master/sdk/cosmos/azure-cosmos)
 - [Java SDK JavaDoc for SQL API of Azure Cosmos DB](https://azuresdkdocs.blob.core.windows.net/$web/java/azure-cosmos/latest/index.html)
 
-## Contributing
+## Contribuindo
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+Este projeto aceita contribuições e sugestões. A maioria das contribuições exige que você concorde com um
+Contrato de Licença de Colaborador (CLA) declarando que você tem o direito, e realmente o faz, de nos conceder
+os direitos de usar sua contribuição. Para obter detalhes, visite https://cla.opensource.microsoft.com.
 
 When you submit a pull request, a CLA bot will automatically determine whether you need to provide
 a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
