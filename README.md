@@ -65,6 +65,6 @@ Quando você envia uma solicitação pull, um bot CLA determinará automaticamen
 um CLA e decorar o PR adequadamente (por exemplo, verificação de status, comentário). Basta seguir as instruções
 fornecido pelo bot. Você só precisará fazer isso uma vez em todos os repositórios que usam nosso CLA.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+Este projeto adotou o [Código de Conduta de Código Aberto da Microsoft](https://opensource.microsoft.com/codeofconduct/).
+Para obter mais informações, consulte as [Perguntas frequentes sobre o Código de Conduta](https://opensource.microsoft.com/codeofconduct/faq/) ou
+entre em contato com [opencode@microsoft.com](mailto:opencode@microsoft.com) se tiver perguntas ou comentários adicionais.
