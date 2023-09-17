@@ -1,11 +1,11 @@
 ---
-page_type: sample
-languages:
-- java
-products:
-- azure
-description: "Azure CosmosDB is a globally distributed multi-model database."
-urlFragment: "azure-cosmos-java-getting-started"
+tipo_de_página: amostra
+línguas:
+-java
+produtos:
+- azul
+description: "Azure CosmosDB é um banco de dados multimodelo distribuído globalmente."
+urlFragment: "azure-cosmos-java-primeiros passos"
 ---
 
 # Leia muitos itens com o SDK Java do Azure Cosmos DB
