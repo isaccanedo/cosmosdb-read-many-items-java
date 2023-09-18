@@ -23,7 +23,7 @@ O Azure Cosmos DB é um banco de dados multimodelo distribuído globalmente. Uma
    * JDK 1.8+
    * Maven
 
-### Quickstart
+### Início rápido
 
 * Primeiro clone este repositório usando
 
