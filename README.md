@@ -4,7 +4,7 @@ línguas:
 -java
 produtos:
 - azul
-description: "Azure CosmosDB é um banco de dados multimodelo distribuído globalmente."
+descrição: "Azure CosmosDB é um banco de dados multimodelo distribuído globalmente."
 urlFragment: "azure-cosmos-java-primeiros passos"
 ---
 
